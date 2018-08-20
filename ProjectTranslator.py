@@ -23,10 +23,10 @@ def translator(tran):
 ##
 ##
 window = Tk()
-window.geometry("500x800")
+window.geometry("500x600")
 window.configure(background='khaki3')
 window.title("Go Translate")
-l1 = Label(text='An Awesome Translator\nBy Krishnaraj', font=('Times', 18), fg='white', bg='purple')
+l1 = Label(text='An Awesome Dictonary\nBy Krishnaraj', font=('Times', 18), fg='white', bg='purple')
 l1.pack(fill=X)
 l2 = Label(window, text='Enter word here :', font=('Century gothic', 17), background='khaki2')
 l2.pack()
