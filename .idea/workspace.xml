@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce1e77f0-9da0-4999-8f51-c92c9cfac0bc" name="Default Changelist" comment="Project Translator" />
+    <list default="true" id="ce1e77f0-9da0-4999-8f51-c92c9cfac0bc" name="Default Changelist" comment="Project Translator">
+      <change afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/.idea/weather_app_django_scotch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_weather/weather/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_weather/weather/templates/weather/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_weather/weather/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/weather_app_django_scotch/the_weather/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/the_weather/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/weather_app_django_scotch/the_weather/weather/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/weather_app_django_scotch/the_weather/weather/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectTranslator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectTranslator.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,41 +27,49 @@
     <session id="-904047638">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="html" value="6" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="HTML" value="6" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="Python Console" value="3" />
+          <entry key="html" value="15" />
+          <entry key="py" value="1005" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="15" />
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="1008" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjectTranslator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding>
                 <element signature="e#13#23#0" expanded="true" />
               </folding>
@@ -59,6 +82,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -69,7 +93,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/10X10_MultiplicationTable.py" />
+        <option value="$PROJECT_DIR$/KivyWindow.py" />
+        <option value="$PROJECT_DIR$/KivyTest.py" />
+        <option value="$PROJECT_DIR$/WeatherApp.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/templates/weather/weather.html" />
         <option value="$PROJECT_DIR$/ProjectTranslator.py" />
+        <option value="$PROJECT_DIR$/KivyDictonary.py" />
+        <option value="$PROJECT_DIR$/kivywindow.py" />
+        <option value="$PROJECT_DIR$/the_weather/the_weather/settings.py" />
+        <option value="$PROJECT_DIR$/the_weather/the_weather/urls.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/urls.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/models.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/admin.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/forms.py" />
+        <option value="$PROJECT_DIR$/the_weather/weather/templates/weather/index.html" />
+        <option value="$PROJECT_DIR$/the_weather/weather/views.py" />
       </list>
     </option>
   </component>
@@ -79,11 +118,13 @@
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,10 +136,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -113,8 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="ProjectTranslator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.kivywindow">
+    <configuration name="KivyDictonary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectTranslator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyDictonary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,9 +176,104 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="KivyTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KivyTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WeatherApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kivywindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivywindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/the_weather/weather" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/the_weather/weather/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.KivyDictonary" />
+      <item itemvalue="Python.KivyTest" />
+      <item itemvalue="Python.WeatherApp" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.kivywindow" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ProjectTranslator" />
+        <item itemvalue="Python.kivywindow" />
+        <item itemvalue="Python.KivyDictonary" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.WeatherApp" />
+        <item itemvalue="Python.KivyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,24 +299,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.249375" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.5525" visible="true" weight="0.32853404" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.7135615" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.4475" side_tool="true" visible="true" weight="0.32853404" />
+      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.495564" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.49936628" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49366286" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -190,14 +325,94 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:\Krishnaraj\CodePython\weather_app_django" />
+    </ignored-roots>
     <MESSAGE value="Project Translator" />
     <option name="LAST_COMMIT_MESSAGE" value="Project Translator" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://C:/Python3/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1698" selection-start-line="1698" selection-end-line="1698" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10X10_MultiplicationTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KivyTest.py" />
+    <entry file="file://$PROJECT_DIR$/the_weather/manage.py" />
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/templates/weather/weather.html" />
+    <entry file="file://$PROJECT_DIR$/WeatherApp.py" />
+    <entry file="file://$PROJECT_DIR$/kivywindow.py" />
+    <entry file="file://$PROJECT_DIR$/KivyDictonary.py" />
+    <entry file="file://$PROJECT_DIR$/the_weather/the_weather/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/the_weather/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/templates/weather/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django/weather_app_django_scotch/the_weather/weather/views.py" />
+    <entry file="file://$PROJECT_DIR$/the_weather/weather/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjectTranslator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding>
             <element signature="e#13#23#0" expanded="true" />
           </folding>

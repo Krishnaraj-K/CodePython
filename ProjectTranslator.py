@@ -5,7 +5,7 @@ from tkinter import *
 
 
 def translator(tran):
-    res = requests.get('https://www.collinsdictionary.com/dictionary/english/%s' % tran)
+    res = requests.get('https://www.collinsdictionary.com/dictionary/english/%s ' % tran)
     soup = bs4.BeautifulSoup(res.text, 'lxml')
     try:
             meaning = soup.find('div', class_='content-box content-box-definition ced')
